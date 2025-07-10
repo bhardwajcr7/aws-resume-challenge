@@ -19,7 +19,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - GitHub Actions
 - Terraform
 
-## [Live Demo 🔗](https://sanyog.pslcoud.in)
+## [Live Demo 🔗](https://sanyog.pscloud.in)
 
  
 
